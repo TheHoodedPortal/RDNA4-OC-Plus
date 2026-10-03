@@ -15,4 +15,4 @@ Download the ready-to-run EXE from **Releases**.
 ## Compatibility
 
 - Windows 10 or later (64-bit)
-- AMD RDNA 4 Radeon GPU with AMD drivers installed
+- AMD RDNA4 GPU with AMD drivers installed
