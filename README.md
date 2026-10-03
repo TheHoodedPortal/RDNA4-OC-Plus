@@ -16,3 +16,7 @@ Download the ready-to-run EXE from **Releases**.
 
 - Windows 10 or later (64-bit)
 - AMD RDNA4 GPU with AMD drivers installed
+
+## Disclaimer
+
+Overclocking can cause instability, crashes, or hardware damage. Use at your own risk; the author is not responsible for damage or data loss.
