@@ -11,3 +11,8 @@ Simple and lightweight OC utility for RDNA 4 GPUs.
 - 5-point fan control.
 
 Download the ready-to-run EXE from **Releases**.
+
+## Compatibility
+
+- Windows 10 or later (64-bit)
+- AMD RDNA 4 Radeon GPU with AMD drivers installed
