@@ -1,6 +1,6 @@
 # RDNA4 OC+
 
-Simple OC utility for RDNA4 GPUs. About 500 KB and uses about 15.5 MB of RAM.
+Simple and lightweight OC utility for RDNA 4 GPUs. About 500 KB and uses about 15.5 MB of RAM.
 
 ![RDNA4 OC+](screenshots/app.png)
 
